@@ -1,9 +1,9 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Crypt;
 use Illuminate\Http\Request;
-
+use App\User;
 use App\Http\Requests;
 
 class UserController extends Controller

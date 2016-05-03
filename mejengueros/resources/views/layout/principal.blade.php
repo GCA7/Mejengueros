@@ -6,9 +6,10 @@
 	<link href="../img/soccer.png" rel="shortcut icon" type="image/png"> 
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="{{asset('/css/css/main.css')}}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="{{asset('/css/css/materialize.min.css')}}">
+
 </head>
-<body>
+<body id="seccion">
  @yield('content')
 
 

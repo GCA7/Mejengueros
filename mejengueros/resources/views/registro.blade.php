@@ -37,7 +37,7 @@
 				<button class="btn waves-effect waves-light" type="submit" name="action">Registrar
 					<i class="material-icons right">done</i>
 				</button>
-				<button href='index' class="btn waves-effect waves-light" type="submit" name="cancel">Cancelar
+				<button href='index' class="btn waves-effect waves-light" name="cancel">Cancelar
 					<i class="material-icons right">cancel</i>
 				</button>
 			</form>
